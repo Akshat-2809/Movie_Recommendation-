@@ -27,7 +27,7 @@ This project implements a **content-based recommendation system** that analyzes 
 
 | Feature | Description |
 |---------|-------------|
-| **Movie Search** | Search TMDB's database of 500,000+ movies with instant suggestions |
+| **Movie Search** | Search and enrich movie data using TMDB’s API for metadata, images, and discovery endpoints|
 | **Content-Based Recommendations** | Get similar movies based on plot, themes, and keywords |
 | **Genre Discovery** | Explore movies by genre with curated collections |
 | **Category Browsing** | Browse Trending, Popular, Top Rated, Now Playing & Upcoming |
@@ -115,7 +115,7 @@ MovieRecommendation/
 
 ### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.9 or higher
 - TMDB API Key — [Get yours here](https://www.themoviedb.org/settings/api)
 
 ### Installation
@@ -215,7 +215,36 @@ Deploy to Streamlit Cloud by connecting your GitHub repository.
 
 ---
 
-## 📄 License
+## �️ Screenshots
+
+### Loading Screen
+*Welcome animation with progress indicators*
+
+<p align="center">
+  <img src="screenshots/loading-screen.png" alt="Loading Screen" width="800"/>
+</p>
+
+---
+
+### Home Page
+*Browse trending, popular, and top-rated movies with an intuitive interface*
+
+<p align="center">
+  <img src="screenshots/home-page.png" alt="Home Page" width="800"/>
+</p>
+
+---
+
+### Search Results
+*Instant search with autocomplete suggestions and movie grid*
+
+<p align="center">
+  <img src="screenshots/search-results.png" alt="Search Results" width="800"/>
+</p>
+
+---
+
+## �📄 License
 
 This project is licensed under the MIT License.
 
