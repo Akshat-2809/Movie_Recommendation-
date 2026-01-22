@@ -221,7 +221,7 @@ Deploy to Streamlit Cloud by connecting your GitHub repository.
 *Welcome animation with progress indicators*
 
 <p align="center">
-  <img src="screenshots/loading-screen.png" alt="Loading Screen" width="800"/>
+  <img src="screenshots/screenshots/loading-screen.png.jpeg" alt="Loading Screen" width="800"/>
 </p>
 
 ---
@@ -230,7 +230,7 @@ Deploy to Streamlit Cloud by connecting your GitHub repository.
 *Browse trending, popular, and top-rated movies with an intuitive interface*
 
 <p align="center">
-  <img src="screenshots/home-page.png" alt="Home Page" width="800"/>
+  <img src="screenshots/screenshots/home-page.png.jpeg" alt="Home Page" width="800"/>
 </p>
 
 ---
@@ -239,7 +239,7 @@ Deploy to Streamlit Cloud by connecting your GitHub repository.
 *Instant search with autocomplete suggestions and movie grid*
 
 <p align="center">
-  <img src="screenshots/search-results.png" alt="Search Results" width="800"/>
+  <img src="screenshots/screenshots/search-results.png" alt="Search Results" width="800"/>
 </p>
 
 ---
