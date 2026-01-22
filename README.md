@@ -23,7 +23,7 @@ This project implements a **content-based recommendation system** that analyzes 
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Description |
 |---------|-------------|
@@ -36,7 +36,7 @@ This project implements a **content-based recommendation system** that analyzes 
 
 ---
 
-## 🧠 Technical Architecture
+##  Technical Architecture
 
 ### Recommendation Engine
 
@@ -68,7 +68,7 @@ The system employs a **hybrid recommendation approach**:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 | Technology | Purpose |
@@ -93,7 +93,7 @@ The system employs a **hybrid recommendation approach**:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 MovieRecommendation/
@@ -111,7 +111,7 @@ MovieRecommendation/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -210,12 +210,6 @@ Access the application at `http://localhost:8501`
 
 ## 🌐 Deployment
 
-### Backend (Render)
-The FastAPI backend is deployed on Render at:
-```
-https://movie-rec-466x.onrender.com
-```
-
 ### Frontend (Streamlit Cloud)
 Deploy to Streamlit Cloud by connecting your GitHub repository.
 
@@ -226,12 +220,6 @@ Deploy to Streamlit Cloud by connecting your GitHub repository.
 This project is licensed under the MIT License.
 
 ---
-
-## 🙏 Acknowledgments
-
-- [TMDB](https://www.themoviedb.org/) for the comprehensive movie database API
-- [FastAPI](https://fastapi.tiangolo.com/) for the excellent API framework
-- [Streamlit](https://streamlit.io/) for making web apps simple
 
 ---
 
